@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Crim-Mission'
+author 'Bs-Dev'
 
 description 'Crim-Mission'
 
